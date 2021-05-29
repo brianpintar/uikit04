@@ -22,7 +22,7 @@ const Container = styled.div`
   flex: none;
   padding: 8px 4px;
   background-color: ${({ theme }) => theme.nav.background};
-  border-top: solid 2px rgba(133, 133, 133, 0.1);
+  border-top: 1px solid rgba(18, 53, 88);
 `;
 
 const PriceLink = styled.a`
